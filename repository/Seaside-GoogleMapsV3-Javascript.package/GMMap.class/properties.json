@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "GMClass",
+	"category" : "Seaside-GoogleMapsV3-Javascript",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"options"
+	],
+	"name" : "GMMap",
+	"type" : "normal"
+}

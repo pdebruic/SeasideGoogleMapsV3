@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"zoom" : "JohanBrichau 12/30/2010 11:05",
+		"navigationControl:" : "JohanBrichau 1/4/2011 08:45",
+		"mapTypeId:" : "JohanBrichau 12/30/2010 10:51",
+		"noClear:" : "JohanBrichau 1/4/2011 08:46",
+		"backgroundColor" : "JohanBrichau 12/30/2010 10:27",
+		"mapTypeId" : "JohanBrichau 12/30/2010 10:50",
+		"scaleControl:" : "JohanBrichau 1/4/2011 08:46",
+		"disableDoubleClickZoom:" : "JohanBrichau 1/4/2011 08:43",
+		"draggable:" : "JohanBrichau 1/4/2011 08:43",
+		"disableDoubleClickZoom" : "JohanBrichau 1/4/2011 08:43",
+		"streetViewControl:" : "JohanBrichau 1/4/2011 08:47",
+		"scrollwheel:" : "JohanBrichau 1/4/2011 08:46",
+		"keyboardShortcuts:" : "JohanBrichau 1/4/2011 08:44",
+		"draggingCursor:" : "JohanBrichau 1/4/2011 08:44",
+		"zoom:" : "JohanBrichau 12/30/2010 11:05",
+		"disableDefaultUI:" : "JohanBrichau 1/4/2011 08:42",
+		"backgroundColor:" : "JohanBrichau 12/30/2010 10:30",
+		"center" : "JohanBrichau 12/30/2010 10:47",
+		"disableDefaultUI" : "JohanBrichau 1/4/2011 08:42",
+		"draggableCursor:" : "JohanBrichau 1/4/2011 08:44",
+		"center:" : "JohanBrichau 12/30/2010 10:47",
+		"mapTypeControl:" : "JohanBrichau 1/4/2011 08:45"
+	},
+	"class" : { }
+}

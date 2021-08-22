@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "JSObject",
+	"category" : "Seaside-GoogleMapsV3-Javascript",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"properties"
+	],
+	"name" : "GMOptions",
+	"type" : "normal"
+}
